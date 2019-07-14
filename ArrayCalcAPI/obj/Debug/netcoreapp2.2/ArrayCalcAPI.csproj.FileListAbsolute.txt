@@ -1,0 +1,14 @@
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\bin\Debug\netcoreapp2.2\ArrayCalcAPI.deps.json
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\bin\Debug\netcoreapp2.2\ArrayCalcAPI.runtimeconfig.json
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\bin\Debug\netcoreapp2.2\ArrayCalcAPI.runtimeconfig.dev.json
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\bin\Debug\netcoreapp2.2\ArrayCalcAPI.dll
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\bin\Debug\netcoreapp2.2\ArrayCalcAPI.pdb
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\obj\Debug\netcoreapp2.2\ArrayCalcAPI.csprojAssemblyReference.cache
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\obj\Debug\netcoreapp2.2\ArrayCalcAPI.csproj.CoreCompileInputs.cache
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\obj\Debug\netcoreapp2.2\ArrayCalcAPI.RazorAssemblyInfo.cache
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\obj\Debug\netcoreapp2.2\ArrayCalcAPI.RazorAssemblyInfo.cs
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\obj\Debug\netcoreapp2.2\ArrayCalcAPI.AssemblyInfoInputs.cache
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\obj\Debug\netcoreapp2.2\ArrayCalcAPI.AssemblyInfo.cs
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\obj\Debug\netcoreapp2.2\ArrayCalcAPI.RazorTargetAssemblyInfo.cache
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\obj\Debug\netcoreapp2.2\ArrayCalcAPI.dll
+C:\Work\Apps\ArrayCalcProj\ArrayCalcAPI\obj\Debug\netcoreapp2.2\ArrayCalcAPI.pdb
